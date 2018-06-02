@@ -33,4 +33,4 @@ def fract_to_float(little_frac):
 
 
 if __name__ == "__main__":
-    gas_price_tester()
+    get_gas_cost()
